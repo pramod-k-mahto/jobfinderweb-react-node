@@ -1,0 +1,52 @@
+.job-list{
+
+
+    /* background-color: white; */
+    color: black;
+    display: flex;
+    margin: 12px;
+    width: 350px;
+    border: 0.5px solid rgb(216, 210, 210);
+}
+
+.img{
+    height: 40px;
+    width: 40px;
+
+
+}
+.image-box{
+    height: 40px;
+    width: 40px;
+    /* border: 2px solid white; */
+    padding: 17px;
+    margin: 15px;
+    background-color: white;
+
+
+
+}
+.job-title{
+color: black;
+/* margin-left: 12px; */
+
+}
+
+.job{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(241, 237, 237);
+}
+
+.footer{
+
+    background-color: rgb(200, 121, 106);
+    color: white;
+    height: 235px;
+    text-align: center;
+    padding-top: 100px;
+}
+.apply-btn{
+    background-color: black;
+    color: white;
+}

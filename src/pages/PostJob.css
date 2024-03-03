@@ -1,0 +1,22 @@
+
+
+.form{
+    background-color: rgb(35, 36, 36);
+    color: white;
+  margin: 15px;
+  padding: 5px;
+    height:auto;
+    width: 400px;
+    /* border: 2px solid black; */
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.submit{
+
+    width: 315px;
+    height: 35px;
+    background-color: black;
+    color: white
+    ;
+}

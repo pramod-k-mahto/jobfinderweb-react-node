@@ -1,0 +1,33 @@
+
+body{
+    /* background-color: rgb(202, 123, 123); */
+}
+.home-header{
+
+    height: 200px;
+    background-color: rgb(151, 132, 132);
+    color: white;
+    text-align: center;
+    padding-top: 135px;
+    height: 400px;
+    /* background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2000a352812969.59eedeac2642a.gif'); */
+
+    background-image: url('https://az505806.vo.msecnd.net/webcontent/corp/v1/jobseekers/jobsearch/img-hero.png');
+
+
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.home-footer{
+    /* margin-top: 12px; */
+    height: 200px;
+    background-color: rgb(132, 82, 82);
+    color: white;
+    text-align: center;
+    padding-top: 135px;
+    background-repeat: no-repeat;
+
+    /* background-image: url('https://az505806.vo.msecnd.net/webcontent/corp/v1/jobseekers/jobsearch/img-hero.png'); */
+
+}

@@ -1,0 +1,19 @@
+
+
+.ApplyForm{
+    margin-left: 500px;
+    margin-top: 50px;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(210, 200, 200);
+
+
+    
+}
+
+.Apply-btn {
+    background-color: black;
+    height: 40px;
+    color: white;
+    margin-left: 120px;
+}
